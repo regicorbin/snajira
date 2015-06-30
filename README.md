@@ -1,3 +1,3 @@
 # snajira
 Test
-6
+1
